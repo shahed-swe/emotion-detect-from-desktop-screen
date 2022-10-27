@@ -105,5 +105,5 @@ def main():
 
     pywhatkit.playonyt(finalLI[emoDecider(finalLI)])
 
-
-main()
+if __name__ == '__main__':
+    main()
